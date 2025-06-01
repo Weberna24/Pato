@@ -479,7 +479,7 @@ body.active{
   }
 
   .menu-section{
-    padding: 0rem 0rem;
+    padding: 0rem 3rem;
     padding-bottom: 2rem;
     background-color: #e2c29e;
   }
@@ -1293,6 +1293,12 @@ body.active{
   }
 
   @media screen and (max-width: 1050px) {
+
+    .menu-section{
+        padding: 0rem 1.3rem;
+        padding-bottom: 2rem;
+        background-color: #e2c29e;
+      }
 
     .customer-container{
       width: 100%;
